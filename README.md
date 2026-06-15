@@ -125,7 +125,7 @@ Chatgpt-Rag-Pdf-App-Chroma/
 
 ```bash
 git clone https://github.com/Likithkumarr/Chatgpt-Rag-App-ChromaDB.git
-cd Chatgpt-Rag-App
+cd Chatgpt-Rag-App-ChromaDB
 ```
 
 ### 2. Create a Virtual Environment
